@@ -1,0 +1,30 @@
+{
+  "name": "nais-form-sample",
+  "version": "0.1.0",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-hook-form": "^7.48.2",
+    "react-router-dom": "^6.16.0",
+    "react-scripts": "^5.0.1",
+    "zod": "^3.22.4"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
